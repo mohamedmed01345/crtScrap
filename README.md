@@ -6,8 +6,10 @@ get yourself a clone using:
 `git clone https://github.com/mohamedmed01345/crtScrap.git`
 
 install the requirments:
+
 Linux
 `sudo pip3 install -r requirements.txt`
+
 windows
 `pip install -r requirments.txt`
 
