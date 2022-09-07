@@ -20,4 +20,4 @@ windows
 
 **Examples**
 
-`python2 crtScrap -d google.com -o googleScraped`
+`python3 crtScrap -d google.com -o googleScraped`
